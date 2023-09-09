@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Legal Trail</title>
+    <link>https://LegalTrail.github.io/</link>
+    <description>Recent content on Legal Trail</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Jul 2023 13:16:39 +0530</lastBuildDate><atom:link href="https://LegalTrail.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sankets Quest</title>
+      <link>https://LegalTrail.github.io/blog/sankets-quest/</link>
+      <pubDate>Tue, 11 Jul 2023 13:16:39 +0530</pubDate>
+      
+      <guid>https://LegalTrail.github.io/blog/sankets-quest/</guid>
+      <description>A tale of how sanket exposes the fraud.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://LegalTrail.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://LegalTrail.github.io/about/</guid>
+      <description>Self Introduction I am a skilled legal professional with a strong background in various areas of law including Civil laws, Criminal laws, Competition Act, Companies Act, Taxation laws, Arbitration, Labour laws, etc. With nearly one year of internship, I have gained comprehensive knowledge and practical insights into the legal landscape
+Details Skills:
+Drafting of legal documents such as Agreements, Pleadings, Notices, Affidavits, etc. legal Counseling and legal advice Negotiation Research and Analysis Client Relationship Management Feel free to reach out to me directly or connect with me to explore potential collaborations or opportunities within the legal field.</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
